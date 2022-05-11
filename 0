@@ -1,0 +1,22 @@
+{
+  "dna": "fa92cb91714ecbfa76ad4fbad29ec2a0",
+  "name": "Mahima coin Token NFT #0",
+  "description": "open sea NFT Token mahima",
+  "image": "https://gateway.pinata.cloud/ipfs/QmXVm3ufP4k1iniWnCqYZpi4qMTscnRm6ULeDDE9wKRdfD/0.png",
+  "date": 1652037545887,
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "pexels-aleksandar-pasaric-4505907"
+    },
+    {
+      "trait_type": "Light",
+      "value": "78238-light-adobe-effect-illustrator-free-hd-image"
+    },
+    {
+      "trait_type": "Token NFT",
+      "value": "image (12)"
+    }
+  ],
+  "compiler": "mintables.club"
+}
